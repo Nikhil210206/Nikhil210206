@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2><b>AI/ML Enthusiast | Developer | Hackathon Finalist</b></h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=FF4F00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;AI/ML+Developer+%7C+Open-Source+Contributor;Hackathon+Finalist+%7C+Tech+Enthusiast" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=FF4F00&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;AI/ML+Developer+%7C+Open-Source+Contributor;Hackathon+Finalist+%7C+Tech+Enthusiast" alt="Typing animation"/>
 </div>
 
 ---
@@ -29,7 +29,7 @@
   <a href="https://devfolio.co/@Nikhil_6938" target="_blank">
     <img alt="Devfolio" src="https://img.shields.io/badge/Devfolio-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Nikhil210206&label=Profile+Views&color=orange&style=flat-square"/>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Nikhil210206&label=Profile+Views&color=orange&style=for-the-badge"/>
 </div>
 
 ---
@@ -44,11 +44,17 @@
 ### 📈 GitHub Stats & Activity Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=Nikhil210206&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical" alt="GitHub Streak" width="48%"/>
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil210206&theme=radical" alt="Profile Details"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Nikhil210206&theme=radical" alt="Activity Metrics" width="100%"/>
 </div>
+
+---
+
+### 🌟 Current Participation
+- **Social Winter of Code SWOC'25**: Contributing to impactful open-source projects and growing as a developer.
 
 ---
 
@@ -75,17 +81,15 @@
 
 ---
 
-### 🛠️ Activity Metrics
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nikhil210206&theme=github" alt="GitHub Activity Graph"/>
-</div>
-
----
-
 ### 🎉 Fun Facts
 - I love technology and have a passion for building innovative solutions.
 - I'm a skilled keyboardist with 10 years of experience.
 - My favorite quote: "Code is like humor. When you have to explain it, it’s bad."
+
+---
+
+### 🌟 Current Participation
+- **Social Winter of Code SWOC'25**: Contributing to impactful open-source projects and growing as a developer.
 
 ---
 
@@ -94,8 +98,3 @@
 - **LinkedIn:** [Nikhil Balamurugan](https://www.linkedin.com/in/nikhil-b-029a6032b/)
 - **Instagram:** [_nikhil_b21_](https://www.instagram.com/_nikhil_b21_/)
 - **Discord:** nikhilb_13596
-
----
-
-### 🌟 Current Participation
-- **Social Winter of Code SWOC'25**: Contributing to impactful open-source projects and growing as a developer.
