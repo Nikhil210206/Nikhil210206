@@ -57,9 +57,9 @@
 
 ---
 
-### 🛠️ Activity Metrics
+### 📊 Nikhil's Contribution Graph
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nikhil210206&theme=radical" alt="Contributor Stats" width="70%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil210206&bg_color=0f0f0f&color=ffffff&line=ff4f00&point=ff9900&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -77,15 +77,16 @@
 
 ### 🏆 Achievements
 - **Quantathon 2.0 Finalist**: The only first-year team to make it to the finals!
-- **House of the Coders Winner**
-- **Alexaverse Ideation Finals**
+- **House of the Coders Hackathon**
+- **Alexaverse Ideation Finalist**
+- **IIT Madras Shaastra programming contest Finalist**
 
 ---
 
 ### 🎉 Fun Facts
-- I love technology and have a passion for building innovative solutions.
-- I'm a skilled keyboardist with 10 years of experience.
-- I love playing Basketball and Tennis.
+- *I love technology and have a passion for building innovative solutions.*
+- *I'm a skilled keyboardist with 10 years of experience.*
+- *I love playing Basketball and Tennis.*
 
 ---
 
@@ -93,4 +94,3 @@
 - **Email:** [nikhilbalamurugan@gmail.com](mailto:nikhilbalamurugan@gmail.com)
 - **LinkedIn:** [Nikhil Balamurugan](https://www.linkedin.com/in/nikhil-b-029a6032b/)
 - **Instagram:** [_nikhil_b21_](https://www.instagram.com/_nikhil_b21_/)
-- **Discord:** nikhilb_13596
