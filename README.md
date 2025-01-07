@@ -1,90 +1,101 @@
-# Hello there! 👋 I'm **Nikhil Balamurugan**
+# Hi there, I'm Nikhil Balamurugan! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&color=FF4F00&center=true&lines=Computer+Science+Student;AI+Enthusiast;Tech+Lover+%F0%9F%92%BB;Hackathon+Finalist+%F0%9F%8F%86;Open-Source+Contributor)
-
-Welcome to my GitHub profile! I'm a first-year Computer Science and Engineering student at **SRM University KTR Campus**. I love creating innovative solutions, contributing to open-source projects, and building cool AI applications. 🚀
-
----
-
-## 🚀 Technologies I've Worked With
-
-### **Programming Languages:**
-- C, C++, Python, JavaScript
-
-### **Frameworks and Tools:**
-- Flask, React, scikit-learn, OpenCV, TensorFlow, Git, Firebase
-
-### **Others:**
-- Google Generative AI API, HTML, CSS, Bootstrap
+<div align="center">
+  <h2><b>AI/ML Enthusiast | Developer | Hackathon Finalist</b></h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=FF4F00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;AI/ML+Developer+%7C+Open-Source+Contributor;Hackathon+Finalist+%7C+Tech+Enthusiast" alt="Typing animation"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil210206&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical)
-
----
-
-## 🌟 Badges
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Nikhil210206&color=blue)](https://github.com/Nikhil210206)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilbalamurugan/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil210206)
-[![Bento](https://img.shields.io/badge/Bento-%23001111.svg?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/nikhilbalamurugan)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilbalamurugan@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_handle/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Devfolio](https://img.shields.io/badge/Devfolio-%23410086.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://devfolio.co/@nikhil210206)
-
----
-
-## 💼 My Projects
-
-### **[FitYou](https://github.com/Nikhil210206/FitYou)**  
-- An AI-driven fitness app with two key features: 
-  - **Fit AI**: Generates personalized workout and diet plans based on user input.
-  - **Fit Coach**: Offers access to fitness coaches and mentors to help achieve fitness goals.
-
-### **[Guard AI](https://github.com/Nikhil210206/GuardAI)**
-- An open-source AI project for enhanced surveillance and security systems.
-- Focused on creating a safer environment using cutting-edge AI techniques.
+<div align="center">
+  <a href="https://github.com/Nikhil210206" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-b-029a6032b/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://bento.me/nikhilb" target="_blank">
+    <img alt="Bento" src="https://img.shields.io/badge/Bento.me-%23000000.svg?style=for-the-badge&logo=bento&logoColor=white"/>
+  </a>
+  <a href="mailto:nikhilbalamurugan@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_nikhil_b21_/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/nikhilb_13596" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://devfolio.co/@Nikhil_6938" target="_blank">
+    <img alt="Devfolio" src="https://img.shields.io/badge/Devfolio-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Nikhil210206&label=Profile+Views&color=orange&style=flat-square"/>
+</div>
 
 ---
 
-## 🏆 Achievements
-
-- **Finalist** at **Quantathon 2.0 Hackathon** 🏅
-- **Finalist** at **House of the Coders Hackathon** 🥈
-- **Finalist** at **Alexaverse Ideation Finals** 🌟
-
----
-
-## 🌐 Open Source Contributions
-
-### **Guard AI Project**
-Contributed to the development of advanced security solutions using AI.
+### 🛠️ Technologies, Tools & Languages
+- **Languages:** Python, C++, C
+- **Technologies:** Machine Learning, Deep Learning, Web Development
+- **Tools:** Flask, React, Scikit-learn, TensorFlow, Git, Docker
 
 ---
 
-## 📈 Activity Metrics
-
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil210206&theme=radical)
-![Contributions](https://github-readme-stats.vercel.app/api?username=Nikhil210206&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
-
----
-
-## 🎉 Fun Facts About Me
-
-- 🎶 I’ve been playing the keyboard for 10 years and love music.
-- 💻 I’m passionate about technology and always eager to learn new things.
-- 🌟 I believe in "Dream Big, Work Hard, and Make It Happen!"
+### 📈 GitHub Stats & Activity Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Nikhil210206&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="48%"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil210206&theme=radical" alt="Profile Details"/>
+</div>
 
 ---
 
-## 📬 Contact Me
+### 🚀 Projects
+#### **FitYou**
+- A personalized fitness platform featuring AI-powered diet and workout plans.
+- Includes **Fit AI** and **Fit Coach** for tailored user experiences.
 
+#### **Guard AI**
+- Open-source contribution for an AI-powered security and surveillance system.
+- Focused on automating threat detection and enhancing safety.
+
+---
+
+### 🏆 Achievements
+- **Quantathon 2.0 Finalist**: The only first-year team to make it to the finals!
+- **House of the Coders Winner**
+- **Alexaverse Ideation Finals**
+
+---
+
+### 🌟 Open Source Contributions
+- **Guard AI**: Actively contributing to an open-source AI surveillance project.
+
+---
+
+### 🛠️ Activity Metrics
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Nikhil210206&theme=github" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+### 🎉 Fun Facts
+- I love technology and have a passion for building innovative solutions.
+- I'm a skilled keyboardist with 10 years of experience.
+- My favorite quote: "Code is like humor. When you have to explain it, it’s bad."
+
+---
+
+### 📬 Contact Me
 - **Email:** [nikhilbalamurugan@gmail.com](mailto:nikhilbalamurugan@gmail.com)
-- **LinkedIn:** [Nikhil Balamurugan](https://www.linkedin.com/in/nikhilbalamurugan/)
-- **Instagram:** [Your Handle](https://www.instagram.com/your_handle/)
+- **LinkedIn:** [Nikhil Balamurugan](https://www.linkedin.com/in/nikhil-b-029a6032b/)
+- **Instagram:** [_nikhil_b21_](https://www.instagram.com/_nikhil_b21_/)
+- **Discord:** nikhilb_13596
+
+---
+
+### 🌟 Current Participation
+- **Social Winter of Code SWOC'25**: Contributing to impactful open-source projects and growing as a developer.
