@@ -1,5 +1,7 @@
 ## Hi there 👋
 https://oss.fyi/Nikhil210206 
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhil210206&color=green)
+
 
 # 🌟 Nikhil Balamurugan | AI/ML Enthusiast 🌟
 Welcome to my GitHub! I'm passionate about technology, coding, and solving real-world problems.
