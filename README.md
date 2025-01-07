@@ -34,71 +34,63 @@
 
 ---
 
-### 🛠️ Technologies, Tools & Languages  
+### 🛠️ Technologies, Tools & Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,react,flask,tensorflow,pytorch,sklearn,git,github,vscode" alt="Tech Stack"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/MediaPipe-%230075C9.svg?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/OpenCV-%23ffffff.svg?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV"/>
 </div>
 
 ---
 
-### 📈 GitHub Stats  
+### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical" alt="GitHub Streak" width="48%"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical" alt="GitHub Streak" width="48%"/>
 </div>
 
 ---
 
-### 📊 Activity Metrics  
+### 🛠️ Activity Metrics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil210206&theme=radical" alt="Productive Time" width="48%"/>  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhil210206&theme=radical" alt="Languages Used" width="48%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Nikhil210206&theme=radical" alt="Contributor Stats" width="70%"/>
 </div>
 
 ---
 
-### 🌟 Current Participation  
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&color=FF4F00&center=true&vCenter=true&width=600&lines=⚡+Social+Winter+of+Code+SWOC'25;Contributing+to+open-source+projects+as+a+developer!" alt="SWOC animation"/>
-</div>
+### 🚀 Projects
+#### **FitYou**
+- A personalized fitness platform featuring AI-powered diet and workout plans.
+- Includes **Fit AI** and **Fit Coach** for tailored user experiences.
+
+#### **Guard AI**
+- Open-source contribution for an AI-powered security and surveillance system.
+- Focused on automating threat detection and enhancing safety.
 
 ---
 
-### 🚀 Projects  
-<div align="center">
-  <h3>**FitYou**</h3>
-  <p>A personalized fitness platform featuring AI-powered diet and workout plans, including **Fit AI** and **Fit Coach** for tailored user experiences.</p>
-  <img src="https://img.shields.io/badge/Status-Building-orange?style=for-the-badge"/>
-
-  <h3>**Guard AI**</h3>
-  <p>An AI-powered security system for automating threat detection and enhancing safety.</p>
-  <img src="https://img.shields.io/badge/Status-Contributing-green?style=for-the-badge"/>
-</div>
+### 🏆 Achievements
+- **Quantathon 2.0 Finalist**: The only first-year team to make it to the finals!
+- **House of the Coders Winner**
+- **Alexaverse Ideation Finals**
 
 ---
 
-### 🏆 Achievements  
-<div align="center">
-  <ul>
-    <li>🏅 <b>Quantathon 2.0 Finalist</b>: The only first-year team to make it to the finals!</li>
-    <li>🏆 <b>House of the Coders Winner</b></li>
-    <li>⚡ <b>Alexaverse Ideation Finals</b></li>
-  </ul>
-</div>
+### 🎉 Fun Facts
+- I love technology and have a passion for building innovative solutions.
+- I'm a skilled keyboardist with 10 years of experience.
+- I love playing Basketball and Tennis.
 
 ---
 
-### 🎉 Fun Facts  
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&color=FF4F00&center=true&vCenter=true&width=800&lines=🎵+I+am+a+skilled+keyboardist+with+10+years+of+experience!;🏀+I+love+playing+Basketball+and+Tennis!;💻+Technology+is+my+passion!" alt="Fun Facts"/>
-</div>
-
----
-
-### 📬 Contact Me  
-<div align="center">
-  <a href="mailto:nikhilbalamurugan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/nikhil-b-029a6032b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/_nikhil_b21_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://discord.com/users/nikhilb_13596"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</div>
+### 📬 Contact Me
+- **Email:** [nikhilbalamurugan@gmail.com](mailto:nikhilbalamurugan@gmail.com)
+- **LinkedIn:** [Nikhil Balamurugan](https://www.linkedin.com/in/nikhil-b-029a6032b/)
+- **Instagram:** [_nikhil_b21_](https://www.instagram.com/_nikhil_b21_/)
+- **Discord:** nikhilb_13596
