@@ -35,21 +35,25 @@
 ---
 
 ### 🛠️ Technologies, Tools & Languages
-- **Languages:** Python, C++, C
+- **Languages:** C++, C, Python
 - **Technologies:** Machine Learning, Deep Learning, Web Development
-- **Tools:** Flask, React, Scikit-learn, TensorFlow, Git, Docker
+- **Tools:** Flask, React, Scikit-learn, TensorFlow, Git, Mediapipe, OpenCV, PyTorch
 
 ---
 
-### 📈 GitHub Stats & Activity Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical" alt="GitHub Streak" width="48%"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil210206&theme=radical" alt="Profile Details"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nikhil210206&theme=radical" alt="Activity Metrics" width="100%"/>
-</div>
+### 📈 GitHub Stats  
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical" alt="GitHub Streak" width="48%"/>  
+</div>  
+
+---
+
+### 📊 Contribution & Profile Insights  
+<div align="center">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil210206&theme=radical" alt="Profile Details" width="100%"/>  
+  <img src="https://github-contributor-stats.vercel.app/api?username=Nikhil210206&theme=radical" alt="Contribution Stats" width="100%"/>  
+</div>  
 
 ---
 
@@ -76,20 +80,10 @@
 
 ---
 
-### 🌟 Open Source Contributions
-- **Guard AI**: Actively contributing to an open-source AI surveillance project.
-
----
-
 ### 🎉 Fun Facts
 - I love technology and have a passion for building innovative solutions.
 - I'm a skilled keyboardist with 10 years of experience.
-- My favorite quote: "Code is like humor. When you have to explain it, it’s bad."
-
----
-
-### 🌟 Current Participation
-- **Social Winter of Code SWOC'25**: Contributing to impactful open-source projects and growing as a developer.
+- I love playing Basketball and Tennis.
 
 ---
 
