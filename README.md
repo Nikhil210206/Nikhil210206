@@ -1,4 +1,8 @@
-# Hi there, I'm Nikhil Balamurugan! 👋
+<div align="center" style="margin-top: 50px;">
+  <h1 style="font-family: 'Poppins', sans-serif; color: #ff4f00; font-size: 3rem; font-weight: bold;">
+    Hi there, I am Nikhil Balamurugan 👋
+  </h1>
+</div>
 
 <div align="center">
   <h2><b>AI/ML Enthusiast | Developer | Hackathon Finalist</b></h2>
