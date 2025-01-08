@@ -55,8 +55,8 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=Nikhil210206&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical&hide_title=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 ---
@@ -73,9 +73,13 @@
 - A personalized fitness platform featuring AI-powered diet and workout plans.
 - Includes **Fit AI** and **Fit Coach** for tailored user experiences.
 
-#### **Guard AI**
+#### **Guard AI (SWOC)**
 - Open-source contribution for an AI-powered security and surveillance system.
 - Focused on automating threat detection and enhancing safety.
+
+### **Appledore (SWOC)**
+- Appledore is a modern C++ library for managing directed and undirected graphs.
+- It offers flexible customization of vertex and edge types, along with efficient methods for calculating indegree, outdegree, and total degree for graph vertices.
 
 ---
 
