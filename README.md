@@ -1,6 +1,6 @@
 <div align="center" style="margin-top: 50px;">
   <h1 style="font-family: 'Poppins', sans-serif; color: #ff4f00; font-size: 3rem; font-weight: bold;">
-    Hi there, I am Nikhil Balamurugan 👋
+    Hello, I am Nikhil Balamurugan 👋
   </h1>
 </div>
 
