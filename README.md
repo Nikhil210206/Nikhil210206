@@ -88,6 +88,7 @@
 - **House of the Coders Hackathon**
 - **Alexaverse Ideation Finalist**
 - **IIT Madras Shaastra programming contest Finalist**
+- **Social Winter of Code 5.0 Contributer**
 
 ---
 
