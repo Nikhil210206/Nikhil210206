@@ -55,15 +55,9 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical&hide_title=true" alt="GitHub Streak" width="48%"/>
-</div>
-
----
-
-### 📊 Language Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil210206&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="50%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil210206&theme=radical" alt="GitHub Profile Details" width="75%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical&hide_title=false" alt="GitHub Streak" width="48%"/>
 </div>
 
 ---
