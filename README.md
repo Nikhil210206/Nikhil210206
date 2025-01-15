@@ -61,6 +61,13 @@
 
 ---
 
+### 📊 Language Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil210206&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="50%"/>
+</div>
+
+---
+
 ### 📊 Nikhil's Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil210206&bg_color=0f0f0f&color=ffffff&line=ff4f00&point=ff9900&area=true&hide_border=true" alt="Contribution Graph"/>
@@ -88,7 +95,7 @@
 - **House of the Coders Hackathon**
 - **Alexaverse Ideation Finalist**
 - **IIT Madras Shaastra programming contest Finalist**
-- **Social Winter of Code 5.0 Contributer**
+- **Social Winter of Code 5.0 Contributor**
 
 ---
 
