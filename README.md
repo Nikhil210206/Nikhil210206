@@ -40,7 +40,7 @@
 
 ### 🛠️ Technologies, Tools & Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -55,25 +55,40 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhil210206&theme=radical" alt="Commit Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil210206&bg_color=0f0f0f&color=ff9900&line=ff4f00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical&hide_title=true" alt="GitHub Streak" width="48%"/>
+</div>
+
+---
+
+### 📊 Nikhil's Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil210206&bg_color=0f0f0f&color=ffffff&line=ff4f00&point=ff9900&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
 ### 🚀 Projects
-- **FitYou**: A personalized fitness platform with AI-powered diet and workout plans.
-- **Guard AI**: AI-powered security and surveillance system.
-- **Appledore**: A modern C++ library for graph management and computation.
+**FitYou**
+- A personalized fitness platform featuring AI-powered diet and workout plans.
+- Includes **Fit AI** and **Fit Coach** for tailored user experiences.
+
+**Guard AI (SWOC)**
+- Open-source contribution for an AI-powered security and surveillance system.
+- Focused on automating threat detection and enhancing safety.
+
+**Appledore (SWOC)**
+- Appledore is a modern C++ library for managing directed and undirected graphs.
+- It offers flexible customization of vertex and edge types, along with efficient methods for calculating indegree, outdegree, and total degree for graph vertices.
 
 ---
 
 ### 🏆 Achievements
-- **Quantathon 2.0 Finalist**: The only first-year team to make it to the finals.
-- **House of the Coders Hackathon Finalist**
-- **IIT Madras Shaastra Programming Contest Finalist**
-- **Social Winter of Code Contributor**
+- **Quantathon 2.0 Finalist**: The only first-year team to make it to the finals!
+- **House of the Coders Hackathon**
+- **Alexaverse Ideation Finalist**
+- **IIT Madras Shaastra programming contest Finalist**
+- **Social Winter of Code 5.0 Contributer**
 
 ---
 
