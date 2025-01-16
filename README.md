@@ -62,6 +62,8 @@
 - Appledore is a modern C++ library for managing directed and undirected graphs.
 - It offers flexible customization of vertex and edge types, along with efficient methods for calculating indegree, outdegree, and total degree for graph vertices.
 
+**Jarvis (SWOC)**
+
 ---
 
 ### 🏆 Achievements
