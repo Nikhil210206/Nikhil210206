@@ -54,7 +54,7 @@
 - A personalized fitness platform featuring AI-powered diet and workout plans.
 - Includes **Fit AI** and **Fit Coach** for tailored user experiences.
 
-**Guard AI (SWOC)**
+**Guard-AI (SWOC)**
 - Open-source contribution for an AI-powered security and surveillance system
 - Focused on automating threat detection and enhancing safety.
 
