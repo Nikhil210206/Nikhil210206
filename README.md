@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color:#000; color:#fff; padding:20px;">
   <h1>Hello, I am Nikhil Balamurugan 👋</h1>
   <h2>AI/ML Enthusiast | Developer | Hackathon Finalist</h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=FF4F00&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;AI/ML+Developer+%7C+Open-Source+Contributor" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="background-color:#000; padding:10px;">
   <a href="https://github.com/Nikhil210206" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nikhil-b-029a6032b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://bento.me/nikhilb" target="_blank"><img alt="Bento" src="https://img.shields.io/badge/Bento.me-%23000000.svg?style=for-the-badge&logo=bento&logoColor=white"/></a>
@@ -20,7 +20,7 @@
 ---
 
 ### 🛠️ Technologies, Tools & Languages
-<div align="center">
+<div align="center" style="background-color:#000; color:#fff; padding:10px;">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -44,25 +44,25 @@
 
 ### 📊 Nikhil's Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil210206&bg_color=0f0f0f&color=ffffff&line=ff4f00&point=ff9900&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil210206&bg_color=000000&color=ffffff&line=ff4f00&point=ff9900&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
 ### 🚀 Projects
-**FitYou**
-- A personalized fitness platform featuring AI-powered diet and workout plans.
+**FitYou**  
+- A personalized fitness platform featuring AI-powered diet and workout plans.  
 - Includes **Fit AI** and **Fit Coach** for tailored user experiences.
 
-**Guard-AI (SWOC)**
-- Open-source contribution for an AI-powered security and surveillance system
+**Guard-AI (SWOC)**  
+- Open-source contribution for an AI-powered security and surveillance system  
 - Focused on automating threat detection and enhancing safety.
 
-**Appledore (SWOC)**
-- Appledore is a modern C++ library for managing directed and undirected graphs.
+**Appledore (SWOC)**  
+- Appledore is a modern C++ library for managing directed and undirected graphs.  
 - It offers flexible customization of vertex and edge types, along with efficient methods for calculating indegree, outdegree, and total degree for graph vertices.
 
-**Jarvis (SWOC)**
+**Jarvis (SWOC)**  
 
 ---
 
@@ -71,7 +71,7 @@
 - **House of the Coders Hackathon**
 - **Alexaverse Ideation Finalist**
 - **IIT Madras Shaastra programming contest Finalist**
-- **Social Winter of Code 5.0 Contributer**
+- **Social Winter of Code 5.0 Contributor**
 
 ---
 
