@@ -5,7 +5,7 @@
 </div>
 
 ---
-
+### 🌐 Connect with Me
 <div align="center" style="background-color:#000; padding:10px;">
   <a href="https://github.com/Nikhil210206" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nikhil-b-029a6032b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -49,40 +49,31 @@
 
 ---
 
-### 🚀 Projects
-**FitYou**  
-- A personalized fitness platform featuring AI-powered diet and workout plans.  
-- Includes **Fit AI** and **Fit Coach** for tailored user experiences.
-
-**Guard-AI (SWOC)**  
-- Open-source contribution for an AI-powered security and surveillance system  
-- Focused on automating threat detection and enhancing safety.
-
-**Appledore (SWOC)**  
-- Appledore is a modern C++ library for managing directed and undirected graphs.  
-- It offers flexible customization of vertex and edge types, along with efficient methods for calculating indegree, outdegree, and total degree for graph vertices.
-
-**Jarvis (SWOC)**  
+### 🚀 Featured Projects
+- **FitYou** - A personalized fitness platform featuring AI-powered diet and workout plans.
+- **Guard-AI (SWOC)** - AI-powered security and surveillance system.
+- **Appledore (SWOC)** - A modern C++ library for managing graphs.
+- **Jarvis (SWOC)** - AI-powered voice assistant project.
 
 ---
 
 ### 🏆 Achievements
-- **Quantathon 2.0 Finalist**: The only first-year team to make it to the finals!
-- **House of the Coders Hackathon**
-- **Alexaverse Ideation Finalist**
-- **IIT Madras Shaastra programming contest Finalist**
-- **Social Winter of Code 5.0 Contributor**
+- 🎖️ **Quantathon 2.0 Finalist** - The only first-year team in the finals!
+- 🏅 **House of the Coders Hackathon**
+- 🎉 **Alexaverse Ideation Finalist**
+- 🏆 **IIT Madras Shaastra Programming Contest Finalist**
+- 💡 **Social Winter of Code 5.0 Contributor**
 
 ---
 
 ### 🎉 Fun Facts
-- *I love technology and have a passion for building innovative solutions.*
-- *I'm a skilled keyboardist with 10 years of experience.*
-- *I love playing Basketball and Tennis.*
+- 🎹 *Skilled keyboardist with 10 years of experience.*
+- 🏀 *Love playing Basketball & Tennis.*
+- 💡 *Passionate about AI & building innovative solutions.*
 
 ---
 
 ### 📬 Contact Me
-- **Email:** [nikhilbalamurugan@gmail.com](mailto:nikhilbalamurugan@gmail.com)
-- **LinkedIn:** [Nikhil Balamurugan](https://www.linkedin.com/in/nikhil-b-029a6032b/)
-- **Instagram:** [_nikhil_b21_](https://www.instagram.com/_nikhil_b21_/)
+- 📩 **Email:** [nikhilbalamurugan@gmail.com](mailto:nikhilbalamurugan@gmail.com)
+- 🔗 **LinkedIn:** [Nikhil Balamurugan](https://www.linkedin.com/in/nikhil-b-029a6032b/)
+- 📸 **Instagram:** [_nikhil_b21_](https://www.instagram.com/_nikhil_b21_/)
