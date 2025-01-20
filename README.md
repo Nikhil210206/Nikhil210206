@@ -51,7 +51,7 @@
 
 ### 🚀 Featured Projects
 - **FitYou** - A personalized fitness platform featuring AI-powered diet and workout plans.
-- **Guard-AI (SWOC)** - AI-powered security and surveillance system.
+- **Guard-AI (SWOC)** - AI-powered security and proctoring system.
 - **Appledore (SWOC)** - A modern C++ library for managing graphs.
 - **Jarvis (SWOC)** - AI-powered voice assistant project.
 
