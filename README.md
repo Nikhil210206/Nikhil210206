@@ -58,7 +58,7 @@
 ---
 
 ### 🏆 Achievements
-- 🎖️ **Quantathon 2.0 Finalist** - The only first-year team in the finals!
+- 🎖️ **Quantathon 2.0 Finalist** - The only first-year team into the finals!
 - 🏅 **House of the Coders Hackathon**
 - 🎉 **Alexaverse Ideation Finalist**
 - 🏆 **IIT Madras Shaastra Programming Contest Finalist**
