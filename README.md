@@ -76,4 +76,4 @@
 ### 📬 Contact Me
 - 📩 **Email:** [nikhilbalamurugan@gmail.com](mailto:nikhilbalamurugan@gmail.com)
 - 🔗 **LinkedIn:** [Nikhil Balamurugan](https://www.linkedin.com/in/nikhil-b-029a6032b/)
-- 📸 **Instagram:** https://www.instagram.com/nikhiiiiiillllll/
+- 📸 **Instagram:** [nikhiiiiiillllll](https://www.instagram.com/nikhiiiiiillllll/)
