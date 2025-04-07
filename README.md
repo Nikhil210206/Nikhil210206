@@ -54,6 +54,7 @@
 - **Guard-AI** - AI-powered security and proctoring system.
 - **Appledore** - A modern C++ library for managing graphs.
 - **Jarvis** - AI-powered voice assistant project.
+- **AudioDetection**
 
 ---
 
@@ -63,6 +64,7 @@
 - 🎉 **Alexaverse Ideation Finalist**
 - 🏆 **IIT Madras Shaastra Programming Contest Finalist**
 - 💡 **Top 100 in Swoc'25 Open source Contribution**
+- 🏅 **TechXcelerate BITS Pilani Hyd Hackathon Participant**
 
 ---
 
