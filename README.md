@@ -54,7 +54,7 @@
 - **Guard-AI** - AI-powered security and proctoring system.
 - **Appledore** - A modern C++ library for managing graphs.
 - **Jarvis** - AI-powered voice assistant project.
-- **AudioDetection**
+- **AudioDetection** - Tracks Audio from backgrounds with real time speech to text conversion 
 
 ---
 
