@@ -72,6 +72,7 @@
 - 🎹 *Skilled keyboardist with 10 years of experience.*
 - 🏀 *Love playing Basketball & Tennis.*
 - 💡 *Passionate about AI & building innovative solutions.*
+- ⚜️ *Ui/Ux in process !*
 
 ---
 
