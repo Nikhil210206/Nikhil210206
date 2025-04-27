@@ -60,11 +60,11 @@
 
 ### 🏆 Achievements
 - 🎖️ **Quantathon 2.0 Finalist** - The only first-year team into the finals!
-- 🏅 **House of the Coders Hackathon**
 - 🎉 **Alexaverse Ideation Finalist**
 - 🏆 **IIT Madras Shaastra Programming Contest Finalist**
 - 💡 **Top 100 in Swoc'25 Open source Contribution**
 - 🏅 **TechXcelerate BITS Pilani Hyd Hackathon Participant**
+- 🏆 **Top 20 in Mozohack 6.0 Hackathon**
 
 ---
 
