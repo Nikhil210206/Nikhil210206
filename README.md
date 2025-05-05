@@ -50,7 +50,8 @@
 - **Guard-AI** - AI-powered security and proctoring system.
 - **Appledore** - A modern C++ library for managing graphs.
 - **Jarvis** - AI-powered voice assistant project.
-- **AudioDetection** - Tracks Audio from backgrounds with real time speech to text conversion 
+- **AudioDetection** - Tracks Audio from backgrounds with real time speech to text conversion
+- **QR Event Checkin**
 
 ---
 
@@ -64,7 +65,7 @@
 
 ---
 
-### 🎉 Fun Facts
+### 🎉 Fun Facts !
 - 🎹 *Skilled keyboardist with 10 years of experience.*
 - 🏀 *Love playing Basketball & Tennis.*
 - 💡 *Passionate about AI & building innovative solutions.*
