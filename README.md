@@ -20,14 +20,14 @@
 
 ---
 
-### 🛠️ Technologies, Tools & Languages
+### 🛠️ Technologies and Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,flask,tensorflow,pytorch,opencv,git,github,vscode,figma,mongodb,postman&theme=dark" alt="Skills" />
 </div>
 
 ---
 
-### 📈 GitHub Stats & Languages 
+### 📈 Stats & Languages 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical&hide_title=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical&hide_title=true" width="48%" />
