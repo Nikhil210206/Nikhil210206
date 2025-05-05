@@ -27,7 +27,7 @@
 
 ---
 
-### 📈 GitHub Stats & Languages Usage
+### 📈 GitHub Stats & Languages 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhil210206&show_icons=true&theme=radical&hide_title=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil210206&theme=radical&hide_title=true" width="48%" />
