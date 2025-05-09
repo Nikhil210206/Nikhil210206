@@ -51,7 +51,7 @@
 - **Appledore** - A modern C++ library for managing graphs.
 - **Jarvis** - AI-powered voice assistant project.
 - **AudioDetection** - Tracks Audio from backgrounds with real time speech to text conversion
-- **QR Event Checkin**
+- **QR Event Checkin** - Checks in students using an QR Scanner with attendence for an event and also has admin insights.
 
 ---
 
