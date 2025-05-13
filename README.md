@@ -56,7 +56,7 @@
 ---
 
 ### 🏆 Achievements
-- 🎖️ **Quantathon 2.0 Finalist** - The only first-year team into the finals!
+- 🎖️ **Quantathon 2.0 Finalist** - The only first-year team into the finals!!
 - 🎉 **Alexaverse Ideation Finalist**
 - 🏆 **IIT Madras Shaastra Programming Contest Finalist**
 - 💡 **Top 100 in Swoc'25 Open source Contribution**
