@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#000; color:#fff; padding:20px;">
+<div align="center" style="background-color:#000; color:#frf; padding:20px;">
   <h1>Hello World,  I am Nikhil !! 👋</h1>
   <h2>AI/ML Enthusiast | Open Source Contributor | Hackathon Finalist</h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=FF4F00&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;AI/ML+Developer+%7C+Open-Source+Contributor" alt="Typing SVG" />
