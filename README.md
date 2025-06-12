@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 Contribution Graph
+### 📊 Git Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil210206&bg_color=000000&color=ffffff&line=ff4f00&point=ff9900&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
