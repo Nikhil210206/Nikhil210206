@@ -52,6 +52,8 @@
 - **Jarvis** - AI-powered voice assistant project.
 - **AudioDetection** - Tracks Audio from backgrounds with real time speech to text conversion.
 - **QR Event Checkin** - Checks in students using an QR Scanner with attendence for an event and also has admin insights.
+- **Class** - My version of SRM Academia website to view attendence, timetable, marks, etc. (in process....)
+- **SRM Bus Tracking** - page where day scholar students can track their busses with real time info. (in process....)
 
 ---
 
@@ -62,6 +64,7 @@
 - 💡 **Top 100 in Swoc'25 Open source Contribution**
 - 🏅 **TechXcelerate BITS Pilani Hyd Hackathon Participant**
 - 🏆 **Top 20 in Mozohack 6.0 Hackathon**
+- 🏅 **Top 25% in Build with India Hackathon by Google**
 
 ---
 
