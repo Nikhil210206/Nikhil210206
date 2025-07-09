@@ -9,7 +9,7 @@
 ### 🌐 Connect with Me !
 <div align="center" style="background-color:#000; padding:10px;">
   <a href="https://github.com/Nikhil210206" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nikhil-b-029a6032b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nikhilb21/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://bento.me/nikhilb" target="_blank"><img alt="Bento" src="https://img.shields.io/badge/Bento.me-%23000000.svg?style=for-the-badge&logo=bento&logoColor=white"/></a>
   <a href="mailto:nikhilbalamurugan@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/nikhiiiiiillllll/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
