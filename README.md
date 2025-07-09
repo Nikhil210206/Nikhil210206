@@ -22,7 +22,7 @@
 
 ### 🛠️ Technologies and Tools 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,flask,tensorflow,pytorch,opencv,git,github,vscode,figma,mongodb,postman&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,flask,tensorflow,pytorch,opencv,node js,git,github,vscode,figma,mongodb,postman&theme=dark" alt="Skills" />
 </div>
 
 ---
