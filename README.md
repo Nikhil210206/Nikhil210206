@@ -57,7 +57,7 @@
 - 🔐 **Guard-AI** – Real-time proctoring & monitoring  
 - 📚 **Appledore** – C++ graph management library  
 - 🧠 **Jarvis** – AI voice assistant  
-- 🔊 **AudioDetection** – Real-time audio tracking + STT  
+- 🔊 **AudioDetection** – Real-time audio tracking + Speach to Text 
 - 📲 **QR Event Check-in** – QR-based attendance & admin dashboard  
 - 🏫 **Class** – SRM student info platform *(in progress)*  
 - 🚌 **SRM Bus Tracker** – Realtime tracking for day scholars *(in progress)*
