@@ -85,7 +85,7 @@
 
 ## 📬 Contact Me  
 <p align="center">
-  📩 **Email:** [nikhilbalamurugan@gmail.com](mailto:nikhilbalamurugan@gmail.com) &nbsp;|&nbsp;  
-  💼 **LinkedIn:** [Nikhil Balamurugan](https://www.linkedin.com/in/nikhilb21/) &nbsp;|&nbsp;  
-  📸 **Instagram:** [@nikhiiiiiillllll](https://www.instagram.com/nikhiiiiiillllll/)
+  📩 **Email:** [nikhilbalamurugan@gmail.com] &nbsp;|&nbsp;  
+  💼 **LinkedIn:** https://www.linkedin.com/in/nikhilb21/ &nbsp;|&nbsp;  
+  📸 **Instagram:** [@nikhiiiiiillllll] (https://www.instagram.com/nikhiiiiiillllll/)
 </p>
