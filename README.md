@@ -64,17 +64,6 @@
 
 ---
 
-## 🏆 Achievements  
-- 🥇 **Quantathon 2.0 Finalist** – Only first-year team selected!  
-- 💡 **Alexaverse Ideation Finalist**  
-- 🧠 **IITM Shaastra Finalist**  
-- 🔥 **Top 100** – SWoC '25  
-- 🚀 **BITS Pilani Hackathon** – TechXcelerate  
-- ⚡ **Top 20** – Mozohack 6.0  
-- 📊 **Top 25%** – Build With India by Google
-
----
-
 ## 🎹 Fun Facts  
 - 🎼 *Classical Keyboardist for 10+ years*  
 - 🏀 *Sports Lover – Basketball & Tennis*  
