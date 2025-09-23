@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#000; color:#fff; padding:40px 20px; border-radius:12px;">
 
-  <h1 style="font-size:3rem;">👋 Hellllo World !</h1>
+  <h1 style="font-size:3rem;">👋 Helllo World !</h1>
   <h2 style="margin-top:10px; font-weight:400;">Project Admin @OpenSourceConnectIndia • Top 100 @SWoC'25 • GSSoC'25 Mentor</h2>
   
   <br/>
