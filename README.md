@@ -58,7 +58,8 @@
 - 📚 **Appledore** – C++ graph management library  
 - 🧠 **Jarvis** – AI voice assistant  
 - 🔊 **AudioDetection** – Real-time audio tracking + Speach to Text 
-- 📲 **QR Event Check-in** – QR-based attendance & admin dashboard  
+- 📲 **QR Event Check-in** – QR-based attendance & admin dashboard
+- 🔐**SecureX** - Highly secured TOR detection platform
 - 🏫 **Class** – SRM student info platform *(in progress)*  
 - 🚌 **SRM Bus Tracker** – Realtime tracking for day scholars *(in progress)*
 
