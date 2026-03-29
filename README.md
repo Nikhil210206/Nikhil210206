@@ -30,7 +30,7 @@
 
 ## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,html,css,react,nodejs,flask,tailwind,tensorflow,pytorch,opencv,git,github,vscode,figma,mongodb,postman,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,html,css,react,nodejs,flask,tailwind,tensorflow,pytorch,opencv,flutter,dart,git,github,vscode,figma,mongodb,postman,linux&theme=dark" />
 </p>
 
 ---
