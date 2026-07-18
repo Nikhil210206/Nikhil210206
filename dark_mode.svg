@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="570" viewBox="0 0 960 570" xml:space="preserve" font-family="'Cascadia Code','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="13">
-<title>Nikhil Balamurugan — GitHub profile card</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" xml:space="preserve" font-family="'Cascadia Code','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="13">
+<title>Nikhil Balamurugan - GitHub profile card</title>
 <style>
   .bgfill { fill:#0d1117; stroke:#30363d; stroke-width:1.5; }
   .sep    { stroke:#30363d; stroke-width:1; }
@@ -10,63 +10,70 @@
   .art    { fill:#f0883e; }
   .dim    { fill:#8b949e; }
 </style>
-<rect class="bgfill" x="8" y="8" width="944" height="554" rx="12"/>
-<line class="sep" x1="378" y1="40" x2="378" y2="540"/>
+<rect class="bgfill" x="8" y="8" width="944" height="524" rx="12"/>
+<line class="sep" x1="378" y1="40" x2="378" y2="510"/>
 
-<!-- ====== left column: ASCII art ====== -->
-<text class="art" x="36" y="78" xml:space="preserve"> _   _  ___  _  __ _   _  ___  _</text>
-<text class="art" x="36" y="96" xml:space="preserve">| \ | ||_ _|| |/ /| | | ||_ _|| |</text>
-<text class="art" x="36" y="114" xml:space="preserve">|  \| | | | | ' / | |_| | | | | |</text>
-<text class="art" x="36" y="132" xml:space="preserve">| |\  | | | | . \ |  _  | | | | |___</text>
-<text class="art" x="36" y="150" xml:space="preserve">|_| \_||___||_|\_\|_| |_||___||_____|</text>
+<!-- left: ASCII portrait -->
+<text class="art" x="40" y="66" xml:space="preserve" font-size="11">                    ...::...</text>
+<text class="art" x="40" y="78" xml:space="preserve" font-size="11">                .%#@@@@@@@@@@#%.</text>
+<text class="art" x="40" y="90" xml:space="preserve" font-size="11">              :#@@@@@@@@@@@@@@@@#:</text>
+<text class="art" x="40" y="102" xml:space="preserve" font-size="11">            .#@@@@@@@@@@@@@@@@@@@@#.</text>
+<text class="art" x="40" y="114" xml:space="preserve" font-size="11">           .@@@@@@@@@@@@@@@@@@@@@@@@.</text>
+<text class="art" x="40" y="126" xml:space="preserve" font-size="11">           @@@@@@@@@@@@@@@@@@@@@@@@@@.</text>
+<text class="art" x="40" y="138" xml:space="preserve" font-size="11">          :@@@@@@@@@@@@@@@@@@@@@@@@@@%</text>
+<text class="art" x="40" y="150" xml:space="preserve" font-size="11">          %@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
+<text class="art" x="40" y="162" xml:space="preserve" font-size="11">          :@@%%%%%%%%%%%%%%%%%%%%%%@@:</text>
+<text class="art" x="40" y="174" xml:space="preserve" font-size="11">           #@%%%@@@@@@@%%@@@@@@@%%%@@</text>
+<text class="art" x="40" y="186" xml:space="preserve" font-size="11">           .@%%%@:.o.:@@@@:.o.:@%%%@.</text>
+<text class="art" x="40" y="198" xml:space="preserve" font-size="11">             #%%@@@@@@@%%@@@@@@@%%%.</text>
+<text class="art" x="40" y="210" xml:space="preserve" font-size="11">              :%%%%%%%%::%%%%%%%%%</text>
+<text class="art" x="40" y="222" xml:space="preserve" font-size="11">              .%%%%%\@@@@@@/%%%%%.</text>
+<text class="art" x="40" y="234" xml:space="preserve" font-size="11">               :################:</text>
+<text class="art" x="40" y="246" xml:space="preserve" font-size="11">                :##############:</text>
+<text class="art" x="40" y="258" xml:space="preserve" font-size="11">                :@@@@#######@@@%</text>
+<text class="art" x="40" y="270" xml:space="preserve" font-size="11">                 .#@@@@@@@@@@#:</text>
+<text class="art" x="40" y="282" xml:space="preserve" font-size="11">    ..              .%%%%%%.</text>
+<text class="art" x="40" y="294" xml:space="preserve" font-size="11">   .#%               %%%%%%               .:.</text>
+<text class="art" x="40" y="306" xml:space="preserve" font-size="11">   .%:      .:####################%.      :#.</text>
+<text class="art" x="40" y="318" xml:space="preserve" font-size="11">  .%%%:.  .%########################%.    :%.</text>
+<text class="art" x="40" y="330" xml:space="preserve" font-size="11">  %%%%%% %############################%..%%%%:</text>
+<text class="art" x="40" y="342" xml:space="preserve" font-size="11">  %%%%%:.@############################@::%%%%%</text>
+<text class="art" x="40" y="354" xml:space="preserve" font-size="11">  %%%%%:.#############@@@##############::%%%%%</text>
+<text class="art" x="40" y="366" xml:space="preserve" font-size="11">  %%%%%%.############@@@@##############::%%%%%</text>
+<text class="art" x="40" y="378" xml:space="preserve" font-size="11">  .%%%%..#############@@###############::%%%%%</text>
+<text class="art" x="40" y="390" xml:space="preserve" font-size="11">        .##############################:.::::.</text>
+<text class="art" x="40" y="402" xml:space="preserve" font-size="11">        .##############################:</text>
+<text class="art" x="40" y="414" xml:space="preserve" font-size="11">        .##############################:</text>
 
-<text class="dim" x="60" y="186" xml:space="preserve"> _______________________________</text>
-<text class="dim" x="60" y="204" xml:space="preserve">| |#|#| |#|#|#| | |#|#| |#|#|#| |</text>
-<text class="dim" x="60" y="222" xml:space="preserve">| |#|#| |#|#|#| | |#|#| |#|#|#| |</text>
-<text class="dim" x="60" y="240" xml:space="preserve">| | | | | | | | | | | | | | | | |</text>
-<text class="dim" x="60" y="258" xml:space="preserve">|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|</text>
-<text class="txt" x="60" y="280" xml:space="preserve">  ~ 10+ yrs of classical keys</text>
+<text class="accent" x="40" y="448" xml:space="preserve">$ whoami</text>
+<text class="txt" x="40" y="466" xml:space="preserve">&gt; builds AI products end-to-end</text>
+<text class="txt" x="40" y="484" xml:space="preserve">&gt; 10+ yrs classical keyboardist</text>
+<text class="accent" x="40" y="510" xml:space="preserve">$ git push origin DSA</text>
 
-<text class="accent" x="36" y="316" xml:space="preserve">$ whoami</text>
-<text class="txt" x="36" y="334" xml:space="preserve">&gt; builds AI products end-to-end</text>
-<text class="txt" x="36" y="352" xml:space="preserve">&gt; model -&gt; API -&gt; mobile · shipped</text>
-
-<text class="accent" x="36" y="388" xml:space="preserve">$ git push origin DSA</text>
-<text class="dim" x="36" y="406" xml:space="preserve">[main 9d21f06] never stop grinding</text>
-
-<text class="accent" x="36" y="442" xml:space="preserve">$ cat /etc/interests</text>
-<text class="txt" x="36" y="460" xml:space="preserve">&gt; basketball · tennis · music</text>
-<text class="txt" x="36" y="478" xml:space="preserve">&gt; UI/UX polishing... [never exits]</text>
-
-<!-- ====== right column: system info ====== -->
+<!-- right: system info -->
 <text x="395" y="64" xml:space="preserve"><tspan class="accent">nikhil@github</tspan><tspan class="txt"> — Nikhil Balamurugan</tspan></text>
 <text class="dim" x="395" y="82" xml:space="preserve">---------------------------------------------</text>
 
 <text x="395" y="104" xml:space="preserve"><tspan class="key">OS .......: </tspan><tspan class="txt">SRM IST Chennai · B.Tech CSE '24-'28</tspan></text>
 <text x="395" y="122" xml:space="preserve"><tspan class="key">Kernel ...: </tspan><tspan class="txt">CGPA 9.21 / 10.00</tspan></text>
 <text x="395" y="140" xml:space="preserve"><tspan class="key">Uptime ...: </tspan><tspan class="txt" id="age_data">20 years, 4 months, 27 days</tspan></text>
-<text x="395" y="158" xml:space="preserve"><tspan class="key">Host .....: </tspan><tspan class="txt">Web Dev Lead @ SRM Insider Community</tspan></text>
-<text x="395" y="176" xml:space="preserve"><tspan class="key">Shell ....: </tspan><tspan class="txt">Tech Team @ GDG on Campus, SRM</tspan></text>
-<text x="395" y="194" xml:space="preserve"><tspan class="key">Init .....: </tspan><tspan class="txt">Project Admin @ OSCI · #1 ranked project</tspan></text>
+<text x="395" y="158" xml:space="preserve"><tspan class="key">Role .....: </tspan><tspan class="txt">Web Dev Lead @ SRM Insider Community</tspan></text>
 
-<text class="accent" x="395" y="226" xml:space="preserve">$ cat achievements.log</text>
-<text x="395" y="244" xml:space="preserve"><tspan class="dim">* </tspan><tspan class="txt">Amazon ML Summer School 2026 — selected</tspan></text>
-<text x="395" y="262" xml:space="preserve"><tspan class="dim">* </tspan><tspan class="txt">InnoHack 2026 (VIT Vellore) — Winner, AI/ML track</tspan></text>
-<text x="395" y="280" xml:space="preserve"><tspan class="dim">* </tspan><tspan class="txt">SWoC 5.0 — Top 100 of 5,000+ devs worldwide</tspan></text>
-<text x="395" y="298" xml:space="preserve"><tspan class="dim">* </tspan><tspan class="txt">Samsung Innovation Campus AI/ML '25-26</tspan></text>
+<text class="accent" x="395" y="190" xml:space="preserve">$ cat achievements.log</text>
+<text x="395" y="208" xml:space="preserve"><tspan class="dim">* </tspan><tspan class="txt">Amazon ML Summer School 2026 — selected</tspan></text>
+<text x="395" y="226" xml:space="preserve"><tspan class="dim">* </tspan><tspan class="txt">Samsung Innovation Campus AI/ML '25-26</tspan></text>
+<text x="395" y="244" xml:space="preserve"><tspan class="dim">* </tspan><tspan class="txt">InnoHack 2026 (VIT Vellore) — Winner, AI/ML track</tspan></text>
 
-<text class="accent" x="395" y="330" xml:space="preserve">$ cat stack.cfg</text>
-<text x="395" y="348" xml:space="preserve"><tspan class="key">Languages : </tspan><tspan class="txt">Java · Python · C++ · TypeScript · JS</tspan></text>
-<text x="395" y="366" xml:space="preserve"><tspan class="key">Frontend .: </tspan><tspan class="txt">React · Flutter · Tailwind CSS</tspan></text>
-<text x="395" y="384" xml:space="preserve"><tspan class="key">Backend ..: </tspan><tspan class="txt">FastAPI · Node.js · Express · Docker</tspan></text>
-<text x="395" y="402" xml:space="preserve"><tspan class="key">AI/ML ....: </tspan><tspan class="txt">TensorFlow · PyTorch · TFLite · OpenCV</tspan></text>
-<text x="395" y="420" xml:space="preserve"><tspan class="key">Database .: </tspan><tspan class="txt">PostgreSQL · MongoDB · SQLite · Supabase</tspan></text>
+<text class="accent" x="395" y="276" xml:space="preserve">$ ls ~/projects</text>
+<text x="395" y="294" xml:space="preserve"><tspan class="dim">* </tspan><tspan class="txt">Sentra — offline-first women's safety app</tspan></text>
+<text x="395" y="312" xml:space="preserve"><tspan class="dim">* </tspan><tspan class="txt">DermaAI — skin disease classification API</tspan></text>
+<text x="395" y="330" xml:space="preserve"><tspan class="dim">* </tspan><tspan class="txt">FitYou — open-source fitness recommender</tspan></text>
 
-<text class="accent" x="395" y="452" xml:space="preserve">$ cat contact</text>
-<text x="395" y="470" xml:space="preserve"><tspan class="key">Email ....: </tspan><tspan class="txt">nikhilbalamurugan@gmail.com</tspan></text>
-<text x="395" y="488" xml:space="preserve"><tspan class="key">Socials ..: </tspan><tspan class="txt">in/nikhilb21 · devfolio.co/@Nikhil_6938</tspan></text>
+<text class="accent" x="395" y="362" xml:space="preserve">$ cat contact</text>
+<text x="395" y="380" xml:space="preserve"><tspan class="key">Email ....: </tspan><tspan class="txt">nikhilbalamurugan@gmail.com</tspan></text>
+<text x="395" y="398" xml:space="preserve"><tspan class="key">Socials ..: </tspan><tspan class="txt">in/nikhilb21 · devfolio.co/@Nikhil_6938</tspan></text>
 
-<text class="dim" x="395" y="510" xml:space="preserve">---------------------------------------------</text>
-<text x="395" y="530" xml:space="preserve"><tspan class="key">Repos ....: </tspan><tspan class="val" id="repo_data">44</tspan><tspan class="dim">  |  </tspan><tspan class="key">Stars: </tspan><tspan class="val" id="star_data">6</tspan><tspan class="dim">  |  </tspan><tspan class="key">Followers: </tspan><tspan class="val" id="follower_data">38</tspan></text>
-<text x="395" y="548" xml:space="preserve"><tspan class="key">Commits ..: </tspan><tspan class="val" id="commit_data">1,037</tspan><tspan class="dim">  |  </tspan><tspan class="key">LOC: </tspan><tspan class="val" id="loc_data">184,112</tspan><tspan class="dim"> ( </tspan><tspan class="val" id="loc_add">208,344++</tspan><tspan class="dim">, </tspan><tspan class="val" id="loc_del">24,232--</tspan><tspan class="dim"> )</tspan></text>
+<text class="dim" x="395" y="430" xml:space="preserve">---------------------------------------------</text>
+<text x="395" y="452" xml:space="preserve"><tspan class="key">Repos ....: </tspan><tspan class="val" id="repo_data">44</tspan><tspan class="dim">  |  </tspan><tspan class="key">Stars: </tspan><tspan class="val" id="star_data">6</tspan><tspan class="dim">  |  </tspan><tspan class="key">Followers: </tspan><tspan class="val" id="follower_data">38</tspan></text>
+<text x="395" y="470" xml:space="preserve"><tspan class="key">Commits ..: </tspan><tspan class="val" id="commit_data">1,037</tspan><tspan class="dim">  |  </tspan><tspan class="key">LOC: </tspan><tspan class="val" id="loc_data">184,112</tspan><tspan class="dim"> ( </tspan><tspan class="val" id="loc_add">208,344++</tspan><tspan class="dim">, </tspan><tspan class="val" id="loc_del">24,232--</tspan><tspan class="dim"> )</tspan></text>
 </svg>
