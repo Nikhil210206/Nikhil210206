@@ -1,18 +1,32 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-  <img src="dark_mode.svg" alt="Nikhil Balamurugan's GitHub profile — self-updating stats card with education, achievements, projects, and live repo/commit/LOC counts" width="100%">
-</picture>
+<img src="profile.svg" alt="Nikhil Balamurugan — terminal-style profile card with ASCII portrait, role, education, contact, stack, and highlights" width="100%">
 
-<img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,react,flutter,dart,fastapi,flask,nodejs,express,docker,supabase,tensorflow,pytorch,opencv,mongodb,postgres,sqlite,git,github,figma,postman&perline=12&theme=dark" alt="Tech stack: Java, Python, C++, JavaScript, TypeScript, React, Flutter, Dart, FastAPI, Flask, Node.js, Express, Docker, Supabase, TensorFlow, PyTorch, OpenCV, MongoDB, PostgreSQL, SQLite, Git, GitHub, Figma, Postman" />
+<h2>─────── ⚙️ &nbsp;T&nbsp;O&nbsp;O&nbsp;L&nbsp;S&nbsp; ⚙️ ───────</h2>
+
+<sub><b>L A N G U A G E S</b></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,dart&theme=dark" alt="Java, Python, C++, JavaScript, TypeScript, Dart" />
+<br><br>
+<sub><b>F R A M E W O R K S &nbsp;&amp;&nbsp; B A C K E N D</b></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,fastapi,flask,tailwind&theme=dark" alt="React, Flutter, Node.js, Express, FastAPI, Flask, Tailwind" />
+<br><br>
+<sub><b>A I &nbsp;/&nbsp; M L</b></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch, OpenCV" />
+<br><br>
+<sub><b>D A T A B A S E S &nbsp;&amp;&nbsp; C L O U D</b></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,supabase,docker&theme=dark" alt="MongoDB, PostgreSQL, SQLite, Supabase, Docker" />
+<br><br>
+<sub><b>D E V &nbsp;T O O L S</b></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" alt="Git, GitHub, VS Code, Figma, Postman, Linux" />
 
 </div>
 
 <!--
-Self-updating profile card. `today.py` runs daily via GitHub Actions and
-rewrites the stats (uptime, repos, stars, followers, commits, lines of code)
-inside both SVGs using the GitHub GraphQL API.
-Architecture inspired by Andrew6rant/Andrew6rant.
+profile.svg: self-typing terminal card — ASCII portrait generated from photo,
+line-print + typewriter CSS animations, blinking cursor. No external requests.
 -->
