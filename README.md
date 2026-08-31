@@ -1,4 +1,4 @@
-<div align="center">   
+<div align="center">
 
 <img src="profile.svg" alt="Nikhil Balamurugan — terminal-style profile card with ASCII portrait, role, education, contact, stack, and highlights" width="100%">
 
