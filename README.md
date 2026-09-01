@@ -12,7 +12,7 @@
 <br><br>
 <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,fastapi,flask,tailwind&theme=dark" alt="React, Flutter, Node.js, Express, FastAPI, Flask, Tailwind" />
 <br><br>
-<sub><b>A I &nbsp;/&nbsp; M L</b></sub>
+<sub><b>A I &nbsp;/&nbsp; M L</b></sub> 
 <br><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch, OpenCV" />
 <br><br>
