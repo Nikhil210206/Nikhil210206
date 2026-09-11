@@ -16,7 +16,7 @@
 <br><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch, OpenCV" />
 <br><br>
-<sub><b>D A T A B A S E S &nbsp;&amp;&nbsp; C L O U D</b></sub>
+<sub><b>D A T A B A S E S &nbsp;&amp;&nbsp; C L O U D </b></sub>
 <br><br>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,supabase,docker&theme=dark" alt="MongoDB, PostgreSQL, SQLite, Supabase, Docker" />
 <br><br>
