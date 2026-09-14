@@ -4,7 +4,7 @@
 
 <h2>─────── ⚙️ &nbsp;T&nbsp;O&nbsp;O&nbsp;L&nbsp;S&nbsp; ⚙️ ───────</h2>
 
-<sub><b>L A N G U A G E S  </b></sub>
+<sub><b>L A N G U A G E S </b></sub>
 <br><br>
 <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,dart&theme=dark" alt="Java, Python, C++, JavaScript, TypeScript, Dart" />
 <br><br>
